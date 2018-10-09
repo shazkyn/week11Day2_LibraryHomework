@@ -12,6 +12,10 @@ public class Books {
         this.genre = genre;
     }
 
+    public Books(String ornithology) {
+
+    }
+
     public String hasTitle() {
         return this.title;
     }
